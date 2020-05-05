@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[about charles kyalo](../img/githubmd.png)
+
