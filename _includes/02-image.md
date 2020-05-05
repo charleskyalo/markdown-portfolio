@@ -1,2 +1,2 @@
-[about charles kyalo](../img/githubmd.png)
+![about charles kyalo](../img/githubmd.png)
 
